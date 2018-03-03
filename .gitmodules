@@ -1,0 +1,3 @@
+[submodule "message_queue"]
+	path = message_queue
+	url = https://github.com/LnxPrgr3/message_queue.git
